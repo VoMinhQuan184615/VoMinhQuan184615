@@ -1,74 +1,66 @@
-# 👋 Hi, I'm Võ Minh Quân
+<h1 align="center">Hi, I'm Võ Minh Quân</h1>
 
-🎓 Software Engineering Student  
-🤖 Interested in AI Systems, Backend Development & System Design  
-📊 Currently building AI-powered applications for real-world problems  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Intern+%7C+AI+Intern;Spring+Boot+%26+LLM+Enthusiast;Building+AI-powered+Systems;From+Vietnam+🇻🇳&center=true&width=750&height=45">
+</p>
 
 ---
 
-## 🚀 About Me
-- Strong interest in **AI Agent, LLM, Knowledge Graph**
-- Experience in **Backend (Spring Boot, Node.js)** and **Frontend (React)**
-- Enjoy building **end-to-end systems**, not just small features
-- Actively learning about **scalable architecture & AI integration**
+##  About Me
+-  Software Engineering student seeking **Backend Intern / AI Intern**
+-  Strong interest in **AI Agent, LLM, Knowledge Graph, GraphRAG**
+-  Backend-focused with **Spring Boot, RESTful APIs, JWT Authentication**
+-  Hands-on experience with **PostgreSQL, MongoDB, Neo4j**
+-  Passionate about **scalable systems & real-world AI applications**
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-- Java Spring Boot  
-- Node.js  
-- REST API, JWT Authentication  
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
-### 🌐 Frontend
-- React  
-- TypeScript / JavaScript  
-- TailwindCSS  
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### 🗄 Database
-- PostgreSQL  
-- MongoDB  
-- Neo4j (Graph Database)
-
-### 🤖 AI & Data
-- Large Language Models (LLM)
-- GraphRAG
-- Text Classification & Information Extraction
+### Database & AI
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔹 AI Agent Stock Analysis
+###  AI Agent Stock Analysis
 > Natural language question answering system for stock market data  
 - Crawl & analyze stock news  
-- Knowledge Graph with Neo4j  
-- Context-aware responses using LLM  
+- Knowledge Graph with **Neo4j**  
+- Context-aware responses using **LLM & GraphRAG**
 
-### 🔹 Anti-Deepfake Application
+### Anti-Deepfake Application
 > Detect AI-generated images & videos  
-- Focus on content authenticity  
-- Practical AI application for media trust  
+- Focus on media authenticity  
+- Practical AI application for real-world use cases  
 
-### 🔹 Realtime Chat Application
+### Realtime Chat Application
 > Full-stack realtime chat system  
 - WebSocket-based communication  
 - Authentication & room-based chat  
 
 ---
 
-## 📈 What I'm Learning Now
-- AI Agent architecture  
-- System design for scalable applications  
-- Better prompt engineering & explainable AI  
-
----
-
-## 📫 Contact
-- 📧 Email: vominhquan14112004@gmail.com  
-- 💼 GitHub: https://github.com/VoMinhQuan184615  
-
----
-
-⭐ *I'm always open to learning, collaboration, and internship opportunities.*
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.verce
