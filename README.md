@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Võ Minh Quân</h1>
+<h1 align="center">Hi, I'm Vo Minh Quan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Intern+%7C+AI+Intern;Spring+Boot+%26+LLM+Enthusiast;Building+AI-powered+Systems;From+Vietnam+🇻🇳&center=true&width=750&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Backend+Intern;AI+Intern;Spring+Boot+and+LLM+Enthusiast;Building+AI+Powered+Systems">
 </p>
 
 ---
