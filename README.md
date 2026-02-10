@@ -76,11 +76,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoMinhQuan184615&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoMinhQuan184615&layout=compact&hide_border=true"/>
+  <img src="https://img.shields.io/github/followers/VoMinhQuan184615?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/VoMinhQuan184615?style=for-the-badge" />
 </p>
 
 ## 🐍 Contribution Graph
