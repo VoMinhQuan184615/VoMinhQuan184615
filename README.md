@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vo Minh Quan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDAE&center=true&vCenter=true&width=750&lines=Frontend+and+Backend+Developer;React+and+Spring+Boot;Building+Fullstack+Web+Applications">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+and+Backend+Developer;React+and+Spring+Boot;Building+Fullstack+Web+Applications&center=true&width=750">
 </p>
 
 <p align="center">
@@ -15,22 +15,22 @@
 </p>
 
 <p align="center">
- Open to <b>Frontend / Backend Internship</b> opportunities
+   Open to <b>Frontend / Backend Internship</b> opportunities
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=000000&section=header"/>
 </p>
 
 ##  About Me
 -  Software Engineering student seeking **Frontend / Backend Internship**
--  Frontend-focused with **React, TypeScript**
+-  Frontend experience with **React, TypeScript**
 -  Backend experience with **Spring Boot, RESTful APIs**
 -  Familiar with **PostgreSQL, MongoDB**
 -  Interested in building **clean UI & scalable backend systems**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
 </p>
 
 ## 🛠 Tech Stack
@@ -60,17 +60,17 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
 </p>
 
 ##  Featured Projects
--  **Frontend React App** — polished UI & reusable components  
--  **Spring Boot API** — REST APIs, JWT auth, clean architecture  
--  **Realtime Chat App** — WebSocket-based communication  
--  **Fullstack Project** — React + Spring Boot integration  
+- **Frontend React App** — polished UI & reusable components  
+- **Spring Boot API** — REST APIs, JWT authentication  
+- **Realtime Chat App** — WebSocket-based communication  
+- **Fullstack Project** — React + Spring Boot integration  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -83,14 +83,14 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:222222&height=2&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
 </p>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VoMinhQuan184615/VoMinhQuan184615/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/VoMinhQuan184615/VoMinhQuan184615/output/github-contribution-grid-snake.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=000000&section=footer"/>
 </p>
