@@ -74,16 +74,13 @@
 </p>
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoMinhQuan184615&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VoMinhQuan184615&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoMinhQuan184615&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoMinhQuan184615&layout=compact&hide_border=true"/>
 </p>
 
 ## 🐍 Contribution Graph
